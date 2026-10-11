@@ -21,14 +21,12 @@
 (function () {
 	"use strict";
 
-	const FLAG_CDN =
-		"https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/";
+	const FLAG_CDN = "https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.3.2/flags/4x3/";
 	const FLAG_MARGIN = "10px";
 	const CACHE_PREFIX = "yt_country_flag_cache_";
 	const CACHE_INDEX = "yt_country_flag_cache_keys";
 
-	const OWNER_SELECTOR =
-		"ytd-video-owner-renderer #upload-info ytd-channel-name";
+	const OWNER_SELECTOR = "ytd-video-owner-renderer #upload-info ytd-channel-name";
 	const OWNER_LINK_SELECTOR =
 		'ytd-video-owner-renderer a[href*="/@"], ' +
 		'ytd-video-owner-renderer a[href*="/channel/"]';
