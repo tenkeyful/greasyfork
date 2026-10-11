@@ -2,7 +2,7 @@
 // @name         YouTube Profile Card on Hover
 // @namespace    https://github.com/tenkeyful
 // @homepageURL  https://greasyfork.org/scripts/568098
-// @icon         https://raw.githubusercontent.com/tenkeyful/greasyfork/main/YouTubeProfileCardOnHover.png
+// @icon         https://raw.githubusercontent.com/tenkeyful/greasyfork/main/yt-profile-card-on-hover/icon.png
 // @version      1.0.2
 // @description  Open YouTube's Profile Card by hovering over profile pictures instead of clicking them.
 // @author       <kbd>
